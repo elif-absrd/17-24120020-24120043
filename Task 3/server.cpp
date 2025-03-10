@@ -11,7 +11,7 @@
 #include <arpa/inet.h>
 #include <fstream>
 
-#define PORT 4999
+#define PORT 5050
 #define BUFFER_SIZE 40
 #define OUTPUT_FILE "received_file.txt"
 
